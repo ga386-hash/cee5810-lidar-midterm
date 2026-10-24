@@ -14,7 +14,7 @@ Every experiment checks the simulation against a formula from [the derivations](
 
 ---
 
-## Quick start (for Gal, or anyone cloning the repo)
+## Quick start 
 
 **You need:** git, and [uv](https://docs.astral.sh/uv/), which installs the right Python and every library for you. Tested on macOS (Apple Silicon); Linux and Windows should work too, since all dependencies ship pre-built wheels.
 
